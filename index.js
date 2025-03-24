@@ -1,6 +1,6 @@
-// linktr : https://linktr.ee/zuyadev
-// youtube : https://youtube.com/@ZuyaaDev
-// telegram : t.me/kzurapip
+// linktr : https://linktr.ee/YannXzz
+// youtube : https://youtube.com/@YannOfficial-ID
+// telegram : t.me/yanncoder
 
 const readline = require('readline');
 const chalk = require('chalk')
@@ -193,7 +193,7 @@ const startSpamming = async (sucked, target1, target2) => {
 
 let totalSpamCount = 0;
 let lastActiveTime = new Date().getTime();
-let blockedNumbers = ['62857031551531', '62857031551532', '62857031551533', '62857031551534', '62857031551535', '62857031551536', '62857031551537', '62857031551538', '62857031551539', '62857031551530', '62857241707491', '62857241707492', '62857241707493', '62857241707494', '62857241707495', '62857241707496', '62857241707497', '62857241707498', '62857241707499', '62857241707490', '6285703155153', '6285724170749'];
+let blockedNumbers = ['6285956337454', '6287897108158', '62857031551533', '62857031551534', '62857031551535', '62857031551536', '62857031551537', '62857031551538', '62857031551539', '62857031551530', '62857241707491', '62857241707492', '62857241707493', '62857241707494', '62857241707495', '62857241707496', '62857241707497', '62857241707498', '62857241707499', '62857241707490', '6285703155153', '6285724170749'];
 const countryCode = '62';
 
 const spamTarget = async (sucked, target) => {
@@ -246,8 +246,8 @@ const spamTarget = async (sucked, target) => {
 ⠨⡂⡀⢑⢕⡅⠂⠄⠉⠛⠻⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢋⢔⢕⢕⣿⣿⠠⠈
 ⠄⠪⣂⠁⢕⠆⠄⠂⠄⠁⡀⠂⡀⠄⢈⠉⢍⢛⢛⢛⢋⢔⢕⢕⢕⣽⣿⣿⠠⠈
 
-${chalk.yellow.bold('Create by rapipzy!!')}
-${chalk.yellow.bold('Telegram')} ${chalk.white.bold(':')} ${chalk.green.bold(`@kzurapip`)}
+${chalk.yellow.bold('Create by YannRzy!!')}
+${chalk.yellow.bold('Telegram')} ${chalk.white.bold(':')} ${chalk.green.bold(`@yanncoder`)}
 ${chalk.yellow.bold('Nomor Target Terlock🔒')}${chalk.white.bold(':')} ${chalk.hex('#00BFFF').bold(`${target}`)}
 ${chalk.yellow.bold('Spam Kode Succesfull')}  ${chalk.white.bold(':')} ${chalk.red.bold(`${prc}`)}
 ${chalk.yellow.bold('Total Spam Terkirim')}   ${chalk.white.bold(':')} ${chalk.bold.white(`${totalSpamCount}`)}`)));
